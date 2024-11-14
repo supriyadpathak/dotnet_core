@@ -1,0 +1,12 @@
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\bin\Debug\net7.0\onlinebookshop.business.deps.json
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\bin\Debug\net7.0\onlinebookshop.business.dll
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\bin\Debug\net7.0\onlinebookshop.business.pdb
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\obj\Debug\net7.0\onlinebookshop.business.csproj.AssemblyReference.cache
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\obj\Debug\net7.0\onlinebookshop.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\obj\Debug\net7.0\onlinebookshop.business.AssemblyInfoInputs.cache
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\obj\Debug\net7.0\onlinebookshop.business.AssemblyInfo.cs
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\obj\Debug\net7.0\onlinebookshop.business.csproj.CoreCompileInputs.cache
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\obj\Debug\net7.0\onlinebookshop.business.dll
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\obj\Debug\net7.0\refint\onlinebookshop.business.dll
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\obj\Debug\net7.0\onlinebookshop.business.pdb
+C:\Work Code\onlinebookshop.webapi\onlinebookshop.business\obj\Debug\net7.0\ref\onlinebookshop.business.dll
